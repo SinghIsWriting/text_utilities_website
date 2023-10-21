@@ -41,14 +41,22 @@ The website is built using the following technologies:
 To set up the Text Utilities website locally, you can follow these general steps:
 
 1. Clone the repository:
-```git clone https://github.com/SinghIsWriting/text_utilities_website.git```
-2. Navigate to the project directory:
-```cd text-utilities-website```
-3. Install required dependencies:
-```pip3 install -r requirements.txt```
-4. Run the development server:
-```python3 manage.py runserver```
-5. Access the website in your browser at [http://localhost:8000/](http://localhost:8000/).
+```
+git clone https://github.com/SinghIsWriting/text_utilities_website.git
+```
+3. Navigate to the project directory:
+```
+cd text-utilities-website
+```
+5. Install required dependencies:
+```
+pip3 install -r requirements.txt
+```
+7. Run the development server:
+```
+python3 manage.py runserver
+```
+9. Access the website in your browser at [http://localhost:8000/](http://localhost:8000/).
 
 ## Contributions
 
