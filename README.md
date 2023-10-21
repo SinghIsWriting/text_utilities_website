@@ -8,13 +8,9 @@ The Text Utilities website is a Django-based web application that provides vario
 ## Features
 
 1. **Uppercase Conversion**: You can convert text to uppercase by simply entering your text and selecting the "Convert to Uppercase" option.
-
 2. **Remove Punctuations**: The "Remove Punctuations" option allows you to eliminate punctuation marks from the text, making it cleaner.
-
 3. **Remove Newlines**: If your text contains newline characters, you can remove them to create a continuous text flow.
-
 4. **Remove Extra Spaces**: The "Remove Extra Spaces" option removes unnecessary spaces and ensures consistent spacing between words.
-
 5. **Count Total Characters**: The website provides a character count feature, allowing you to find out how many characters are in your text.
 
 ![Screenshot 2023-10-21 213501](https://github.com/SinghIsWriting/text_utilities_website/assets/122283853/156f8973-339f-4f51-8a83-1e33f4f1f088)
